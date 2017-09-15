@@ -1,9 +1,0 @@
-C:\Users\DanielSimonsen\source\repos\SmallConsoleJSONApp_ABAX\SmallConsoleJSONApp_ABAX\obj\Debug\SmallConsoleJSONApp_ABAX.csprojResolveAssemblyReference.cache
-C:\Users\DanielSimonsen\source\repos\SmallConsoleJSONApp_ABAX\SmallConsoleJSONApp_ABAX\obj\Debug\SmallConsoleJSONApp_ABAX.csproj.CoreCompileInputs.cache
-C:\Users\DanielSimonsen\source\repos\SmallConsoleJSONApp_ABAX\SmallConsoleJSONApp_ABAX\bin\Debug\SmallConsoleJSONApp_ABAX.exe.config
-C:\Users\DanielSimonsen\source\repos\SmallConsoleJSONApp_ABAX\SmallConsoleJSONApp_ABAX\bin\Debug\SmallConsoleJSONApp_ABAX.exe
-C:\Users\DanielSimonsen\source\repos\SmallConsoleJSONApp_ABAX\SmallConsoleJSONApp_ABAX\bin\Debug\SmallConsoleJSONApp_ABAX.pdb
-C:\Users\DanielSimonsen\source\repos\SmallConsoleJSONApp_ABAX\SmallConsoleJSONApp_ABAX\obj\Debug\SmallConsoleJSONApp_ABAX.exe
-C:\Users\DanielSimonsen\source\repos\SmallConsoleJSONApp_ABAX\SmallConsoleJSONApp_ABAX\obj\Debug\SmallConsoleJSONApp_ABAX.pdb
-C:\Users\DanielSimonsen\source\repos\SmallConsoleJSONApp_ABAX\SmallConsoleJSONApp_ABAX\bin\Debug\Newtonsoft.Json.dll
-C:\Users\DanielSimonsen\source\repos\SmallConsoleJSONApp_ABAX\SmallConsoleJSONApp_ABAX\bin\Debug\Newtonsoft.Json.xml

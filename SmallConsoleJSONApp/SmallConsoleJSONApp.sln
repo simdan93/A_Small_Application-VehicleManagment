@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.15
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallConsoleJSONApp_ABAX", "SmallConsoleJSONApp_ABAX\SmallConsoleJSONApp_ABAX.csproj", "{61616112-126A-4F7A-8FD4-1AFD8FD7A624}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallConsoleJSONApp", "SmallConsoleJSONApp\SmallConsoleJSONApp.csproj", "{181B1EF3-7DCF-432F-86B9-D60DDA667E0F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{61616112-126A-4F7A-8FD4-1AFD8FD7A624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{61616112-126A-4F7A-8FD4-1AFD8FD7A624}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{61616112-126A-4F7A-8FD4-1AFD8FD7A624}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{61616112-126A-4F7A-8FD4-1AFD8FD7A624}.Release|Any CPU.Build.0 = Release|Any CPU
+		{181B1EF3-7DCF-432F-86B9-D60DDA667E0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{181B1EF3-7DCF-432F-86B9-D60DDA667E0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{181B1EF3-7DCF-432F-86B9-D60DDA667E0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{181B1EF3-7DCF-432F-86B9-D60DDA667E0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {FFB35C22-F0F6-49FA-9441-29A60CF3452F}
+		SolutionGuid = {E376ED9B-1524-4432-AF20-BA99AC83A421}
 	EndGlobalSection
 EndGlobal

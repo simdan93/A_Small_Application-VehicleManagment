@@ -1,0 +1,9 @@
+C:\Users\DanielSimonsen\source\repos\SmallConsoleJSONApp\SmallConsoleJSONApp\obj\Debug\SmallConsoleJSONApp.csprojResolveAssemblyReference.cache
+C:\Users\DanielSimonsen\source\repos\SmallConsoleJSONApp\SmallConsoleJSONApp\obj\Debug\SmallConsoleJSONApp.csproj.CoreCompileInputs.cache
+C:\Users\DanielSimonsen\source\repos\SmallConsoleJSONApp\SmallConsoleJSONApp\bin\Debug\SmallConsoleJSONApp.exe.config
+C:\Users\DanielSimonsen\source\repos\SmallConsoleJSONApp\SmallConsoleJSONApp\bin\Debug\SmallConsoleJSONApp.exe
+C:\Users\DanielSimonsen\source\repos\SmallConsoleJSONApp\SmallConsoleJSONApp\bin\Debug\SmallConsoleJSONApp.pdb
+C:\Users\DanielSimonsen\source\repos\SmallConsoleJSONApp\SmallConsoleJSONApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DanielSimonsen\source\repos\SmallConsoleJSONApp\SmallConsoleJSONApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DanielSimonsen\source\repos\SmallConsoleJSONApp\SmallConsoleJSONApp\obj\Debug\SmallConsoleJSONApp.exe
+C:\Users\DanielSimonsen\source\repos\SmallConsoleJSONApp\SmallConsoleJSONApp\obj\Debug\SmallConsoleJSONApp.pdb
