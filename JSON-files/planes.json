@@ -1,0 +1,12 @@
+[
+  {
+    "id": 0,
+    "registration": "LN1234",
+    "engine_power": 1000.0,
+    "wingspan": 30.0,
+    "load_capacity": 2.0,
+    "net_weight": 10.0,
+    "flying_class": "Jet Plane",
+    "canFly": true
+  }
+]

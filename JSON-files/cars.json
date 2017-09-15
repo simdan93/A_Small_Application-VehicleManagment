@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "licence_plate": "NF123456",
+    "engine_power": 147.0,
+    "max_speed": 200.0,
+    "colour": "green",
+    "typeVehicle": "Personal Vehicle",
+    "canDrive": true
+  },
+  {
+    "id": 1,
+    "licence_plate": "NF654321",
+    "engine_power": 150.0,
+    "max_speed": 195.0,
+    "colour": "blue",
+    "typeVehicle": "Personal Vehicle",
+    "canDrive": false
+  }
+]

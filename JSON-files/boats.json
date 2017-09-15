@@ -1,0 +1,10 @@
+[
+  {
+    "id": 0,
+    "registration": "ABC123",
+    "engine_power": 100.0,
+    "max_speed": 30.0,
+    "gross_tonnage": 500.0,
+    "canSail": false
+  }
+]
