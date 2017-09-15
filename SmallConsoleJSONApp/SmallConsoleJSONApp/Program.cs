@@ -202,7 +202,7 @@ namespace SmallConsoleJSONApp
             manage.DisplayCarInfo(cars);
             //Displays the elements for each object
             manage.MatchCars(cars);
-            //match the two cars to see if they have the same licens plate
+            //match the two cars to see if they have the same license plate
 
             List<Plane> planes = manage.MakePlanes();
             //Makes a plane-object
