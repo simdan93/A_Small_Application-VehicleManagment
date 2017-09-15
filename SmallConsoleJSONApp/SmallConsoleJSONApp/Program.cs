@@ -196,7 +196,6 @@ namespace SmallConsoleJSONApp_ABAX
         {
             //Declare a name for our object in our main class
             ManageVehicles manage = new ManageVehicles();
-            //Initialize a new JavaScriptSerializer-class
 
             Console.WriteLine("\nMy contribution for the small test by ABAX\n");
             Console.WriteLine("By Daniel Simonsen\n");
