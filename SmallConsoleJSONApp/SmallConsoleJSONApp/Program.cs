@@ -41,7 +41,6 @@ namespace SmallConsoleJSONApp_ABAX
     {
         public List<Car> MakeCars()
         {
-            //Print out the information to JSON
             var RegisteredCars = new List<Car>
             {
                 new Car { id = 0, licence_plate = "NF123456", engine_power = 147 , max_speed = 200 , colour = "green", typeVehicle = "Personal Vehicle", canDrive = false },
@@ -109,7 +108,6 @@ namespace SmallConsoleJSONApp_ABAX
 
         public List<Plane> MakePlanes()
         {
-            //Print out the information to JSON
             var RegisteredPlanes = new List<Plane>
             {
                 new Plane { id = 0, registration = "LN1234", engine_power = 1000 , wingspan = 30, load_capacity = 2, net_weight = 10, flying_class = "Jet Plane", canFly = false }
@@ -119,7 +117,6 @@ namespace SmallConsoleJSONApp_ABAX
         }
         public void DisplayPlaneInfo(List<Plane> RegisteredPlanes)
         {
-            //Print out to console
             //Print out to console
             Console.WriteLine("Plane details for console:");
             foreach (Plane plane in RegisteredPlanes)
@@ -155,7 +152,6 @@ namespace SmallConsoleJSONApp_ABAX
 
         public List<Boat> MakeBoats()
         {
-            //Print out the information to JSON
             var RegisteredBoats = new List<Boat>
             {
                 new Boat { id = 0, registration = "ABC123", engine_power = 100, max_speed = 30, gross_tonnage = 500, canSail = false }
