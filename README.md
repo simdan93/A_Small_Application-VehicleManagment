@@ -1,4 +1,4 @@
-# A_Small_Application-VehicleManagment
+# A Small Application - VehicleManagment
 
 This is but a small console application that creates three objects: Two cars, one plane and a boat, with all the necessary information.
 It then checks to see whether the two cars are identical. This check is done by checking the licens plate with the expectancy that it 
