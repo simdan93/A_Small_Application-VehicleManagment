@@ -8,7 +8,5 @@ Then the app tells the plane to fly and car number 1 to drive.
 
 Every information is converted to JSON format and written to a local .json file.
 
-Software used: Visual Studio Community
-Language: C# 
-Additional references: json.NET
+Software used: Visual Studio Community | Language: C# | Additional references: json.NET
 
