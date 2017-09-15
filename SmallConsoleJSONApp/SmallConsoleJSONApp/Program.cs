@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using Newtonsoft.Json;
 
-namespace SmallConsoleJSONApp_ABAX
+namespace SmallConsoleJSONApp
 {
     public class Car
     {
@@ -79,7 +79,7 @@ namespace SmallConsoleJSONApp_ABAX
 
             //Write list to file
             Console.Write("Uploads details to file... ");
-            System.IO.File.WriteAllText(@"D:\workspace\ABAX_small_test\JSON-files\cars.json", serializedResult);
+            System.IO.File.WriteAllText(@"D:\workspace\small_test\JSON-files\cars.json", serializedResult);
             Console.WriteLine("uploaded.\n");
         }
         public void MatchCars(List<Car> cars)
@@ -146,7 +146,7 @@ namespace SmallConsoleJSONApp_ABAX
             
             //Write list to file
             Console.Write("Uploads details to file... ");
-            System.IO.File.WriteAllText(@"D:\workspace\ABAX_small_test\JSON-files\planes.json", serializedResult);
+            System.IO.File.WriteAllText(@"D:\workspace\small_test\JSON-files\planes.json", serializedResult);
             Console.WriteLine("uploaded.\n");
         }
 
@@ -188,7 +188,7 @@ namespace SmallConsoleJSONApp_ABAX
             
             //Write list to file
             Console.Write("Uploads details to file... ");
-            System.IO.File.WriteAllText(@"D:\workspace\ABAX_small_test\JSON-files\boats.json", serializedResult);
+            System.IO.File.WriteAllText(@"D:\workspace\small_test\JSON-files\boats.json", serializedResult);
             Console.WriteLine("uploaded.\n");
         }
 
@@ -196,10 +196,6 @@ namespace SmallConsoleJSONApp_ABAX
         {
             //Declare a name for our object in our main class
             ManageVehicles manage = new ManageVehicles();
-
-            Console.WriteLine("\nMy contribution for the small test by ABAX\n");
-            Console.WriteLine("By Daniel Simonsen\n");
-            Console.WriteLine("--------------------------------------------------------------\n\n");
             
             List<Car> cars = manage.MakeCars();
             //Makes two car objects
