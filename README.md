@@ -11,13 +11,22 @@ Software used for editing: Visual Studio Community
 
 Additional packages: Newtonsoft.Json
 
--- FOR TESTING --
+-- For testing --
+
 Step 1 - Install Visual Studio
+
 Step 2 - Clone or download the repository
+
 Step 3 - find the project file, path: SmallConsoleJSONApp/SmallConsoleJSONApp.sln and start it. 
+
 Step 4 - Update package reference for Newtonsoft.Json in Visual Studio
-  a. Go to search at the top right and search for "Package Manager Console" and click on it.
-  b. At the new window that came up, find the dropdown button for default project and make sure the current project is chosen.
-  c. Now type the following: Install-Package Newtonsoft.Json
-  d. Newtonsoft.Json is now ready for use in your project!
+
+- Go to search at the top right and search for "Package Manager Console" and click on it.
+  
+- At the new window that came up, find the dropdown button for default project and make sure the current project is chosen.
+  
+- Now type the following: Install-Package Newtonsoft.Json
+  
+- Newtonsoft.Json is now ready for use in your project!
+  
 ------------------------------------------------------------------------------------------------------------------------------
