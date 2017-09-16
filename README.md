@@ -9,6 +9,6 @@ The app then tells the plane to fly and car number 1 to drive.
 Every information about the transportationvehicles is converted to JSON format using the package Newtonsoft.Json and written to a local .json file.
 
 Software used for editing and testing: Visual Studio Community 
-Language: C# 
-Additional packages: Newtonsoft.Json
+| Language: C# 
+| Additional packages: Newtonsoft.Json
 
