@@ -17,7 +17,7 @@ Step 1 - Install Visual Studio
 
 Step 2 - Clone or download the repository
 
-Step 3 - find the project file, path: SmallConsoleJSONApp/SmallConsoleJSONApp.sln and start it. 
+Step 3 - Find the project file, path: SmallConsoleJSONApp/SmallConsoleJSONApp.sln and start it. 
 
 Step 4 - Update package reference for Newtonsoft.Json in Visual Studio
 
@@ -27,6 +27,6 @@ Step 4 - Update package reference for Newtonsoft.Json in Visual Studio
   
 - Now type the following: Install-Package Newtonsoft.Json
   
-- Newtonsoft.Json is now ready for use in your project!
+- Newtonsoft.Json is now ready!
   
 ------------------------------------------------------------------------------------------------------------------------------
